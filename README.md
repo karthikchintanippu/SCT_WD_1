@@ -1,6 +1,6 @@
 # ExpenseFlow — Smart Expense Tracker SaaS Landing Page
 
-A modern, responsive, and interactive Smart Expense Tracker SaaS Landing Page built using HTML5, CSS3, and JavaScript as part of the SkillCraft Technology Web Development Internship — Task 02.
+A modern, responsive, and interactive Smart Expense Tracker SaaS Landing Page built using HTML5, CSS3, and JavaScript as part of the SkillCraft Technology Web Development Internship — Task 01.
 
 ExpenseFlow showcases how modern financial technology and AI-powered insights can help users track spending, manage budgets, and achieve financial goals more effectively.
 
@@ -10,7 +10,7 @@ ExpenseFlow showcases how modern financial technology and AI-powered insights ca
 
 ExpenseFlow is a modern responsive SaaS landing page designed to demonstrate how smart expense management can simplify personal finance.
 
-This project was developed as part of the SkillCraft Technology Web Development Internship — Task 02.
+This project was developed as part of the SkillCraft Technology Web Development Internship — Task 01.
 
 Instead of creating a generic business website, ExpenseFlow focuses on a real-world fintech use case by presenting an intelligent expense tracking platform that helps users monitor spending habits, manage budgets, analyze financial data, and improve savings through AI-powered insights.
 
@@ -25,9 +25,9 @@ The website combines modern UI design, responsive layouts, interactive animation
 | Internship | SkillCraft Technology |
 | Track | Web Development |
 | Track Code | WD |
-| Task Number | Task 02 |
+| Task Number | Task 01 |
 | Task Name | Responsive SaaS Landing Page |
-| Repository Name | SCT_WD_2 |
+| Repository Name | SCT_WD_1 |
 | Intern ID | SCT/JUN26/2960 |
 | Project Name | ExpenseFlow |
 
@@ -228,7 +228,7 @@ The layout automatically adapts to different screen sizes, providing a seamless 
 # File Structure
 
 ```text
-SCT_WD_2/
+SCT_WD_1/
 │
 ├── index.html
 └── README.md
@@ -276,13 +276,13 @@ While building this project, I practiced:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/SCT_WD_2.git
+git clone https://github.com/karthikchintanippu/SCT_WD_1.git
 ```
 
 ## Navigate to Project Folder
 
 ```bash
-cd SCT_WD_2
+cd SCT_WD_1
 ```
 
 ## Run the Application
