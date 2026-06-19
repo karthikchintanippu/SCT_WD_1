@@ -335,6 +335,6 @@ This project is created for educational and internship submission purposes.
 
 # Footer Credit
 
-**Built by Chintanippu Karthik · SkillCraft Technology Web Development Task 02**
+**Built by Chintanippu Karthik · SkillCraft Technology Web Development Task 01**
 
 ### ExpenseFlow — Track Smarter. Save Better. Grow Financially. 🚀💰
