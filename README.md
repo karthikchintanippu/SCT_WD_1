@@ -176,7 +176,7 @@ Perfect for individuals beginning their financial journey.
 
 ## Pro
 
-Most popular plan for active users.
+Most Popular Plan
 
 ### Includes:
 
@@ -230,10 +230,11 @@ The layout automatically adapts to different screen sizes, providing a seamless 
 ```text
 SCT_WD_2/
 │
-└── index.html
+├── index.html
+└── README.md
 ```
 
-The project follows a single-file architecture where HTML, CSS, and JavaScript are integrated within the `index.html` file. This approach simplifies deployment and allows the project to run directly in any modern web browser without additional setup.
+The project follows a single-file architecture where HTML, CSS, and JavaScript are integrated within the `index.html` file. The `README.md` file contains project documentation and internship details. This approach simplifies deployment and allows the project to run directly in any modern web browser without additional setup.
 
 ---
 
@@ -241,15 +242,15 @@ The project follows a single-file architecture where HTML, CSS, and JavaScript a
 
 | Requirement | Status |
 |-------------|---------|
-| Responsive Landing Page | Completed |
-| Fixed Navigation Menu | Completed |
-| Navbar Visible on All Sections | Completed |
-| Scroll-Based Navbar Styling | Completed |
-| Hover Effects | Completed |
-| Mobile Responsive Navigation | Completed |
-| Interactive User Experience | Completed |
-| Modern UI Design | Completed |
-| SaaS Theme Implementation | Completed |
+| Responsive Landing Page | ✅ Completed |
+| Fixed Navigation Menu | ✅ Completed |
+| Navbar Visible on All Sections | ✅ Completed |
+| Scroll-Based Navbar Styling | ✅ Completed |
+| Hover Effects | ✅ Completed |
+| Mobile Responsive Navigation | ✅ Completed |
+| Interactive User Experience | ✅ Completed |
+| Modern UI Design | ✅ Completed |
+| SaaS Theme Implementation | ✅ Completed |
 
 ---
 
@@ -309,10 +310,9 @@ Possible upgrades include:
 
 # Author
 
-**Chintanippu Karthik**
+## Chintanippu Karthik
 
-Web Development Intern
-
+**Web Development Intern**  
 SkillCraft Technology
 
 **Intern ID:** SCT/JUN26/2960
